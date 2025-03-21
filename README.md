@@ -36,7 +36,7 @@ Projects for Inspiration is a curated collection of creative and technical works
 ## 📌 Favorite projects
 
 ### Project 1: PET Filament making machine | by Fablab_Icam
-
+ 
 ![image](https://github.com/user-attachments/assets/5cd704a2-4a5a-467b-928a-7e7d5605c531) 
 
 #### 🔗 Link - https://wikifactory.com/+icam/pet-challenge
@@ -48,7 +48,7 @@ Projects for Inspiration is a curated collection of creative and technical works
 #### 🔗 Link - https://wikifactory.com/@mariana-martins/triângulo
 
 ### Project 3: Neon Pixels | by Myth
-
+ 
 ![Neon Pixels Gallery](https://github.com/user-attachments/assets/54969885-00e2-4b60-b434-6e0ee32e26b2)
 
 #### 🔗 Link - https://hackaday.io/project/173636-neon-pixels | Repo - https://github.com/pierre-muth/NeonPixel
